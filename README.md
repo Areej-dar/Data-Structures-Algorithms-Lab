@@ -2,7 +2,7 @@
 
 This repository contains solutions for basic Data Structures and Algorithms (DSA) problems, including checking for palindrome strings and validating balanced expressions. These exercises were completed as part of a lab assignment in the Data Structures & Algorithm course.
 
-## 💡 Project Overview
+## Project Overview
 
 The lab assignment focuses on fundamental problems related to stack operations:
 
@@ -23,7 +23,7 @@ The lab assignment focuses on fundamental problems related to stack operations:
 - **Section**: A
 - **Instructor**: Muhammad Nadeem
 
-## ⚙️ Prerequisites
+## Prerequisites
 
 - Python 3.x
 - No external libraries required
