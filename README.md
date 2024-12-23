@@ -14,7 +14,7 @@ The lab assignment focuses on fundamental problems related to stack operations:
    - Validates if an expression has balanced parentheses (e.g., `()`, `{}`, `[]`).
    - Uses a stack to push opening braces and pop them when closing braces are encountered.
 
-## 📋 Lab Details
+## Lab Details
 
 - **Course**: Data Structures & Algorithm
 - **Lab**: Lab-01
